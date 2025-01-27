@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneesyounas04" alt="aneesyounas04" /></a> </p>
 
-- 🌱 I’m currently learning **java,typescript**
+- 🌱 I’m currently learning **java,typescript,python**
 
 - 📫 How to reach me **manees1582@gmail.com**
 
