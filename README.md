@@ -2,11 +2,10 @@
 <h3 align="center"> "Dedicated developer excelling in creating clean, efficient solutions with passion."
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneesyounas04" alt="aneesyounas04" /></a> 
-</p align="left">
-- 🌱 I’m currently learning **python**
-</p>
-- 📫 How to reach me manees1582@gmail.com
-
+<div align="left">
+  - 🌱 I’m currently learning **python**<br>
+  - 📫 How to reach me: manees1582@gmail.com
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/anees_younas04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anees_younas04" height="30" width="40" /></a>
