@@ -3,7 +3,7 @@
 </h3
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneesyounas04" alt="aneesyounas04" /></a> 
 <p align="left">
-  - 🌱 I’m currently learning <strong>Python</strong><br>
+  - 🌱 I’m currently learning <strong>Python</strong> and <strong>JavaScript</strong><br>
   - 📫 How to reach me: <a href="mailto:manees1582@gmail.com" style="color:blue;">manees1582@gmail.com</a>
 </p>
 <h3 align="left">Connect with me:</h3>
