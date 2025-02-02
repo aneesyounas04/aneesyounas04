@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anees Younas</h1>
 <h3 align="center"> Dedicated developer excelling in creating clean, efficient solutions with passion.
-</h3>p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneesyounas04" alt="aneesyounas04" /></a> 
+</h3<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneesyounas04" alt="aneesyounas04" /></a> 
 <p align="left">
   - 🌱 I’m currently learning <strong>Python</strong><br>
   - 📫 How to reach me: manees1582@gmail.com
