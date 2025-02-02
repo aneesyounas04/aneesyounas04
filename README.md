@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anees Younas</h1>
-<h3 align="center">Collaborative coder who excels at crafting clean and efficient solutions to complex problems.
+<h3 align="center">Collaborative coder excelling in clean and efficient solutions.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneesyounas04" alt="aneesyounas04" /></a> </p>
 
