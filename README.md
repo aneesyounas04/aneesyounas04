@@ -5,7 +5,7 @@
 </p align="left">python
   - 🌱 I’m currently learning **python**
 </p>
-- 📫 How to reach me **manees1582@gmail.com**
+- 📫 How to reach me manees1582@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
