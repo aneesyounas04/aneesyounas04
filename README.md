@@ -9,10 +9,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/anees_younas04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anees_younas04" height="30" width="40" /></a>
-   <a href="https://linkedin.com/in/m-anees-13274530a" target="blank">
+ <a href="https://linkedin.com/in/m-anees-13274530a" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-
 
 </p>
 
